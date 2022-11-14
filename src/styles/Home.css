@@ -1,9 +1,10 @@
 
 .h-container {
   /* background-image: linear-gradient(#1c1c1c, #1c1c1c); */
-  margin-top:-390px;
-  width: 85%;
-  margin-left:360px;
+  margin-top:50px;
+  width: calc(100% - 320px);
+  margin-left:320px;
+  background: #121212;
 }
 .h-container h1 ,.firsth1{
   font-size: 1.5rem;
@@ -89,7 +90,7 @@ h2{
     margin-left: 20px;
   }
   *{
-background-color: black;
+/* background-color: black; */
 }
 .body{
     /* -webkit-box-orient: vertical;

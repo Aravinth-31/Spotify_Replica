@@ -24,7 +24,7 @@ function App() {
     setPlayList(newPlayList)
   }
   return (
-    <div className="App">
+    <div className="App" style={{background:"#000"}}>
       {/* <button onClick={handleGetPlaylist} >check endpoint</button>      <Navbar/> */}
       {/* <topNavBar/> */}
       {/* <Router>

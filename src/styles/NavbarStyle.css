@@ -25,13 +25,23 @@
 }
 .navBtnLeft{
     margin-right:40px;
+    width: 38px;
+    height: 38px;
+    background: #000;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
 }
 .navButtons i{
     font-size: 25px;
     /* font-weight: 500; */
 }
+.navButtons i::before{
+}
 .topNavBar{
-    margin-top:20px
+    /* margin-top:20px */
 }
 input.nosubmit {
     margin-top:-10px ;

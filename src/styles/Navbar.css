@@ -18,7 +18,8 @@
 }
 .sideNav{
   background-color: black;
-  width: 370px;
+  width: 270px;
+  position: fixed;
 }
 .navbar {
     height: 80px;
@@ -36,7 +37,7 @@
   }
   .navContent{
     background-color: black;
-    width: 355px;
+    width: 320px;
   }
   .nav-menu {
     background-color: #060b26;
